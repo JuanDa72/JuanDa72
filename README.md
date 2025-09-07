@@ -1,5 +1,13 @@
-# 💫 About Me:
-im currently working on personal proyectos on Java and python exploring creation of API´S.<br>Im looking help with Learn C, Linux commands, and get started with the frontend.<br>Im currently learning about Spring Boot and Android Studio with kotlin.<br>
+# 💫 About Me
+
+Hi there! 👋 I'm **Juan David**, a Systems Engineering student at the **Universidad Nacional de Colombia**.  
+
+### 🔹 What I do
+- 🖥️ Working on personal projects in **Java** and **Python**, mainly focusing on creating **APIs**.  
+- 📚 Currently learning **Spring Boot** and **Android Studio** with **Kotlin**.  
+- 🌱 Improving my skills in **C**, **Linux commands**, and **frontend development**.  
+! 🚀
+
 
 
 # 💻 Tech Stack:
