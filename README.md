@@ -9,6 +9,13 @@ im currently working on personal proyectos on Java and python exploring creation
 ![](https://nirzak-streak-stats.vercel.app/?user=JuanDa72&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDa72&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JuanDa72&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
