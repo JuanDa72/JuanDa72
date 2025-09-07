@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20Juan%20David!&fontSize=60&font=Fredoka&animation=bounce" alt="Encabezado animado"/>
 </div>
 
-
-
-
-
 # 💫 About Me
 
 
@@ -43,8 +39,10 @@ Hi there! 👋 I'm **Juan David**, a Systems Engineering student at the **Univer
 </div>
 
 
-
-
+<div align="center">
+  <h2>📫 Contact Me</h2>
+  <p>You can reach me via email: <a href="mailto:cruzgiraldojuandavid537@gmail.com">cruzgiraldojuandavid537@gmail.com</a></p>
+</div>
 
 
 ---
